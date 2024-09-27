@@ -1,0 +1,30 @@
+2024-08-23 07:56:59.860 [info] Log level: Info
+2024-08-23 07:56:59.860 [info] Validating found git in: "git"
+2024-08-23 07:56:59.860 [info] Using git "2.42.0" from "git"
+2024-08-23 07:56:59.860 [info] > git rev-parse --show-toplevel [5ms]
+2024-08-23 07:56:59.860 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-08-23 07:56:59.860 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-23 07:56:59.860 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-08-23 07:56:59.860 [info] > git rev-parse --show-toplevel [1ms]
+2024-08-23 07:56:59.860 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-08-23 07:56:59.860 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-23 07:56:59.860 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-08-23 07:56:59.860 [info] > git rev-parse --show-toplevel [1ms]
+2024-08-23 07:56:59.860 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-08-23 07:56:59.860 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-23 07:56:59.860 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-08-23 07:56:59.860 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-23 07:56:59.860 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-08-23 07:56:59.860 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-23 07:56:59.860 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-08-23 08:01:19.381 [info] > git rev-parse --show-toplevel [2ms]
+2024-08-23 08:01:19.383 [info] fatal: not a git repository (or any parent up to mount point /teamspace/studios)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

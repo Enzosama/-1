@@ -1,0 +1,21 @@
+2024-08-28 06:38:33.562 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-08-28 06:38:33.924 [info] [Info  - 6:38:33 AM] (4125) Server root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-28 06:38:33.925 [info] [Info  - 6:38:33 AM] (4125) Experimental Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-08-28 06:38:33.926 [info] [Info  - 6:38:33 AM] (4125) Starting service instance "this_studio"
+2024-08-28 06:38:33.972 [info] [Info  - 6:38:33 AM] (4125) Setting pythonPath for service "this_studio": "/home/zeus/miniconda3/envs/cloudspace/bin/python"
+2024-08-28 06:38:33.972 [info] [Info  - 6:38:33 AM] (4125) Setting environmentName for service "this_studio": "3.10.10 (cloudspace conda)"
+2024-08-28 06:38:33.973 [info] [Info  - 6:38:33 AM] (4125) No include entries specified; assuming /teamspace/studios/this_studio
+2024-08-28 06:38:33.973 [info] [Info  - 6:38:33 AM] (4125) Auto-excluding **/node_modules
+2024-08-28 06:38:33.974 [info] [Info  - 6:38:33 AM] (4125) Auto-excluding **/__pycache__
+2024-08-28 06:38:33.974 [info] [Info  - 6:38:33 AM] (4125) Auto-excluding **/.*
+2024-08-28 06:38:34.006 [info] [Info  - 6:38:34 AM] (4125) Assuming Python version 3.10.10.final.0
+2024-08-28 06:38:34.226 [info] [Info  - 6:38:34 AM] (4125) Found 1 source file
+2024-08-28 06:38:34.802 [info] [Info  - 6:38:34 AM] (4125) Background analysis(1) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-28 06:38:34.802 [info] [Info  - 6:38:34 AM] (4125) Background analysis(1) started
+2024-08-28 06:38:34.816 [info] [Info  - 6:38:34 AM] (4125) Indexer background runner(2) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-08-28 06:38:34.816 [info] [Info  - 6:38:34 AM] (4125) Indexing(2) started
+2024-08-28 06:38:37.105 [info] [Info  - 6:38:37 AM] (4125) scanned(2) 409 files over 1 exec env
+2024-08-28 06:38:37.779 [info] [Info  - 6:38:37 AM] (4125) indexed(2) 325 files over 1 exec env
+2024-08-28 06:38:38.052 [info] [Info  - 6:38:38 AM] (4125) Indexing finished(2).
+2024-08-28 06:38:39.967 [info] [Info  - 6:38:39 AM] (4125) [BG(1)] Long operation: checking: file:///teamspace/studios/this_studio/main.py (4737ms)
+2024-08-28 06:38:39.969 [info] [Info  - 6:38:39 AM] (4125) [BG(1)] Long operation: analyzing: file:///teamspace/studios/this_studio/main.py (5178ms)

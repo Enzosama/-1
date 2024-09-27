@@ -1,0 +1,18 @@
+2024-08-28 06:38:23.569 [info] 
+
+
+
+
+2024-08-28 06:38:23.670 [info] Extension host agent started.
+2024-08-28 06:38:24.211 [info] [<unknown>][ddeed700][ManagementConnection] New connection established.
+2024-08-28 06:38:24.219 [info] [<unknown>][a1199b69][ExtensionHostConnection] New connection established.
+2024-08-28 06:38:24.329 [info] [<unknown>][a1199b69][ExtensionHostConnection] <3558> Launched Extension Host Process.
+2024-08-28 06:38:34.771 [info] Getting Manifest... ms-python.vscode-pylance
+2024-08-28 06:38:34.796 [info] Installing extension: ms-python.vscode-pylance {"productVersion":{"version":"1.92.2","date":"2024-08-14T17:29:30.058Z"},"pinned":false,"isApplicationScoped":false,"context":{"clientTargetPlatform":"win32-x64"},"installOnlyNewlyAddedFromExtensionPack":true,"profileLocation":{"$mid":1,"fsPath":"/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json","external":"file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json","path":"/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json","scheme":"file"}}
+2024-08-28 06:38:35.428 [info] Getting Manifest... ms-python.python
+2024-08-28 06:38:37.503 [info] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 1397ms.
+2024-08-28 06:38:43.746 [info] Extracted extension to file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.2: ms-python.vscode-pylance
+2024-08-28 06:38:43.761 [info] Renamed to /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.2
+2024-08-28 06:38:43.793 [info] Marked extension as uninstalled ms-python.vscode-pylance-2024.8.1
+2024-08-28 06:38:43.797 [info] Extension installed successfully: ms-python.vscode-pylance file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json
+2024-08-28 06:43:23.672 [info] New EH opened, aborting shutdown

@@ -1,0 +1,8 @@
+Listening on 127.0.0.1:50081
+[2024-08-23 07:56:23] info Disposed of connection to running server.
+looking for token 66e11b3a-0886-401b-b2dc-67a447156d2d, got Some("66e11b3a-0886-401b-b2dc-67a447156d2d")
+[2024-08-23 07:56:24] info Checking /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/log.txt and /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/pid.txt for a running server...
+[2024-08-23 07:56:24] info Downloading Visual Studio Code server -> /tmp/.tmpl5YkUO/vscode-server-linux-x64.tar.gz
+[2024-08-23 07:56:27] info Starting server...
+[2024-08-23 07:56:27] info Server started
+[2024-08-23 08:01:23] info Disposed of connection to running server.

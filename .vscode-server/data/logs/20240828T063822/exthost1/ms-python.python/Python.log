@@ -1,0 +1,24 @@
+2024-08-28 06:38:30.133 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-08-28 06:38:30.133 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-08-28 06:38:30.133 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-08-28 06:38:30.133 [info] Experiment 'pythonTestAdapter' is active
+2024-08-28 06:38:30.133 [error] Reading directory to watch failed [Error: ENOENT: no such file or directory, scandir '/teamspace/studios/this_studio/.pixi/envs'
+	at Object.readdirSync (node:fs:1507:26)
+	at /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586747
+	at /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586938
+	at Array.map (<anonymous>)
+	at d.initWatchers (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586656)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async d.ensureWatchersReady (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:543067)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/teamspace/studios/this_studio/.pixi/envs'
+}
+2024-08-28 06:38:30.133 [error] Dir "/teamspace/studios/this_studio/.pixi/envs" is not watchable (directory does not exist)
+2024-08-28 06:38:30.159 [info] Default formatter is set to null for workspace /teamspace/studios/this_studio
+2024-08-28 06:38:30.463 [info] Python interpreter path: /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-08-28 06:38:31.192 [info] > pyenv which python
+2024-08-28 06:38:31.192 [info] cwd: .
+2024-08-28 06:38:33.944 [info] Starting Pylance language server.
+2024-08-28 06:38:36.177 [info] > conda info --json

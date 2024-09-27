@@ -1,0 +1,60 @@
+2024-08-23 08:02:32.102 [info] Extension host with pid 11972 started
+2024-08-23 08:02:32.103 [error] Error: EEXIST: file already exists, open '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736/vscode.lock'
+2024-08-23 08:02:32.104 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-08-23 08:02:32.115 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736/vscode.lock': The lock does not look stale, elapsed: 768 ms, giving up.
+2024-08-23 08:02:32.116 [error] Error: EEXIST: file already exists, open '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736-1/vscode.lock'
+2024-08-23 08:02:32.124 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-08-23 08:02:32.128 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736-1/vscode.lock': The lock does not look stale, elapsed: 857 ms, giving up.
+2024-08-23 08:02:32.133 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736-2/vscode.lock': Lock acquired.
+2024-08-23 08:02:33.187 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-23 08:02:33.875 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-23 08:02:34.176 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-23 08:02:34.177 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-23 08:02:35.369 [info] Eager extensions activated
+2024-08-23 08:02:35.370 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-23 08:02:35.370 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-23 08:04:15.376 [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: false, activationEvent: 'onNotebookSerializer:jupyter-notebook'
+2024-08-23 08:04:15.658 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-08-23 08:04:15.658 [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+2024-08-23 08:04:15.659 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+2024-08-23 08:04:15.659 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+2024-08-23 08:05:21.027 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2024-08-23 08:05:37.646 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-08-23 08:05:38.504 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-08-23 08:05:38.504 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-08-23 08:16:18.901 [error] [ms-python.python] provider FAILED
+2024-08-23 08:16:18.903 [error] Error: Request completionItem/resolve failed with message: Cannot read properties of undefined (reading 'type')
+	at ae (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1968174)
+	at oe (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1966134)
+	at Immediate.<anonymous> (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1962428)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-08-23 08:37:30.127 [error] [ms-python.python] provider FAILED
+2024-08-23 08:37:30.129 [error] Error: Request completionItem/resolve failed with message: Cannot read properties of undefined (reading 'type')
+	at ae (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1968174)
+	at oe (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1966134)
+	at Immediate.<anonymous> (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1962428)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-08-23 08:37:33.736 [error] [ms-python.python] provider FAILED
+2024-08-23 08:37:33.737 [error] Error: Request textDocument/signatureHelp failed with message: Cannot read properties of undefined (reading 'type')
+	at ae (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1968174)
+	at oe (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1966134)
+	at Immediate.<anonymous> (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1962428)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-08-23 08:48:09.975 [error] [ms-python.python] provider FAILED
+2024-08-23 08:48:09.976 [error] Error: Request completionItem/resolve failed with message: Cannot read properties of undefined (reading 'type')
+	at ae (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1968174)
+	at oe (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1966134)
+	at Immediate.<anonymous> (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1962428)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-08-23 08:53:00.390 [error] [ms-python.python] provider FAILED
+2024-08-23 08:53:00.390 [error] Error: Request completionItem/resolve failed with message: Cannot read properties of undefined (reading 'type')
+	at ae (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1968174)
+	at oe (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1966134)
+	at Immediate.<anonymous> (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1962428)
+	at process.processImmediate (node:internal/timers:478:21)
+2024-08-23 08:53:03.346 [error] [ms-python.python] provider FAILED
+2024-08-23 08:53:03.346 [error] Error: Request textDocument/signatureHelp failed with message: Cannot read properties of undefined (reading 'type')
+	at ae (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1968174)
+	at oe (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1966134)
+	at Immediate.<anonymous> (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:1962428)
+	at process.processImmediate (node:internal/timers:478:21)

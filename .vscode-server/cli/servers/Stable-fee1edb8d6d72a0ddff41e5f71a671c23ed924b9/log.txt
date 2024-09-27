@@ -1,0 +1,44 @@
+*
+* Visual Studio Code Server
+*
+* By using the software, you agree to
+* the Visual Studio Code Server License Terms (https://aka.ms/vscode-server-license) and
+* the Microsoft Privacy Statement (https://privacy.microsoft.com/en-US/privacystatement).
+*
+Server bound to /tmp/code-3d01bfcb-2aa1-4cf5-83b5-8a42936ef3fb
+Extension host agent listening on /tmp/code-3d01bfcb-2aa1-4cf5-83b5-8a42936ef3fb
+
+[06:38:22] 
+
+
+
+
+[06:38:23] Extension host agent started.
+[06:38:24] [<unknown>][ddeed700][ManagementConnection] New connection established.
+[06:38:24] [<unknown>][a1199b69][ExtensionHostConnection] New connection established.
+[06:38:24] [<unknown>][a1199b69][ExtensionHostConnection] <3558> Launched Extension Host Process.
+[06:38:34] Getting Manifest... ms-python.vscode-pylance
+[06:38:34] Installing extension: ms-python.vscode-pylance {
+  productVersion: { version: '1.92.2', date: '2024-08-14T17:29:30.058Z' },
+  pinned: false,
+  isApplicationScoped: false,
+  context: { clientTargetPlatform: 'win32-x64' },
+  installOnlyNewlyAddedFromExtensionPack: true,
+  profileLocation: v {
+    scheme: 'file',
+    authority: '',
+    path: '/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json',
+    query: '',
+    fragment: '',
+    _formatted: 'file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json',
+    _fsPath: '/teamspace/studios/this_studio/.vscode-server/extensions/extensions.json'
+  }
+}
+[06:38:35] Getting Manifest... ms-python.python
+[06:38:37] Extension signature verification result for ms-python.vscode-pylance: Success. Executed: true. Duration: 1397ms.
+[06:38:43] Extracted extension to file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.2: ms-python.vscode-pylance
+[06:38:43] Renamed to /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.2
+[06:38:43] Marked extension as uninstalled ms-python.vscode-pylance-2024.8.1
+[06:38:43] Extension installed successfully: ms-python.vscode-pylance file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json
+New EH opened, aborting shutdown
+[06:43:23] New EH opened, aborting shutdown

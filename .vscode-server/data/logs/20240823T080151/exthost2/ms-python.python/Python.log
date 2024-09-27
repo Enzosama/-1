@@ -1,0 +1,114 @@
+2024-08-23 08:05:38.463 [info] Experiment 'pythonCreateEnvOnPipInstall' is active
+2024-08-23 08:05:38.463 [info] Experiment 'pythonRecommendTensorboardExt' is active
+2024-08-23 08:05:38.464 [info] Experiment 'pythonTerminalEnvVarActivation' is active
+2024-08-23 08:05:38.464 [info] Experiment 'pythonTestAdapter' is active
+2024-08-23 08:05:38.464 [error] Reading directory to watch failed [Error: ENOENT: no such file or directory, scandir '/teamspace/studios/this_studio/.pixi/envs'
+	at Object.readdirSync (node:fs:1507:26)
+	at /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586747
+	at /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586938
+	at Array.map (<anonymous>)
+	at d.initWatchers (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:586656)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async d.ensureWatchersReady (/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/out/client/extension.js:2:543067)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'scandir',
+  path: '/teamspace/studios/this_studio/.pixi/envs'
+}
+2024-08-23 08:05:38.465 [error] Dir "/teamspace/studios/this_studio/.pixi/envs" is not watchable (directory does not exist)
+2024-08-23 08:05:38.492 [info] Default formatter is set to null for workspace /teamspace/studios/this_studio
+2024-08-23 08:05:38.498 [info] Starting Environment refresh
+2024-08-23 08:05:38.828 [info] > pixi --version
+2024-08-23 08:05:38.829 [error] [Error: spawn pixi ENOENT
+	at ChildProcess._handle.onexit (node:internal/child_process:286:19)
+	at onErrorNT (node:internal/child_process:484:16)
+	at process.processTicksAndRejections (node:internal/process/task_queues:82:21)] {
+  errno: -2,
+  code: 'ENOENT',
+  syscall: 'spawn pixi',
+  path: 'pixi',
+  spawnargs: [ '--version' ]
+}
+2024-08-23 08:05:38.832 [info] > hatch env show --json
+2024-08-23 08:05:38.832 [info] cwd: .
+2024-08-23 08:05:38.838 [info] > conda info --json
+2024-08-23 08:05:39.305 [info] > /home/zeus/miniconda3/envs/cloudspace/bin/python -I ./.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/python_files/get_output_via_markers.py ./.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/python_files/interpreterInfo.py
+2024-08-23 08:05:39.306 [info] Environments refresh paths discovered: 807 milliseconds
+2024-08-23 08:05:39.329 [info] Environments refresh finished (event): 831 milliseconds
+2024-08-23 08:05:39.330 [info] Python interpreter path: /home/zeus/miniconda3/envs/cloudspace/bin/python
+2024-08-23 08:05:39.332 [info] Environment refresh took 835 milliseconds
+2024-08-23 08:05:39.335 [info] > pyenv which python
+2024-08-23 08:05:39.335 [info] cwd: .
+2024-08-23 08:05:41.276 [info] Starting Pylance language server.
+2024-08-23 08:06:28.890 [info] Send text to terminal: /home/zeus/miniconda3/envs/cloudspace/bin/python /teamspace/studios/this_studio/main.py
+2024-08-23 08:06:29.451 [info] CreateEnv Trigger - Skipping for /teamspace/studios/this_studio/main.py
+2024-08-23 08:09:38.662 [info] Running installed packages checker:  {
+  id: '/home/zeus/miniconda3/envs/cloudspace/bin/python',
+  sysPrefix: '/home/zeus/miniconda3/envs/cloudspace',
+  envType: 'Conda',
+  envName: 'cloudspace',
+  envPath: '/home/zeus/miniconda3/envs/cloudspace',
+  path: '/home/zeus/miniconda3/envs/cloudspace/bin/python',
+  architecture: 3,
+  sysVersion: '3.10.10 (main, Mar 21 2023, 18:45:11) [GCC 11.2.0]',
+  version: {
+    raw: '3.10.10',
+    major: 3,
+    minor: 10,
+    patch: 10,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  companyDisplayName: 'Anaconda, Inc.',
+  displayName: "Python 3.10.10 ('cloudspace')",
+  detailedDisplayName: "Python 3.10.10 ('cloudspace': conda)",
+  type: 'Conda'
+} /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/python_files/installed_check.py /teamspace/studios/this_studio/requirements.txt
+2024-08-23 08:09:38.663 [info] > /home/zeus/miniconda3/envs/cloudspace/bin/python ./.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/python_files/installed_check.py ./requirements.txt
+2024-08-23 08:11:36.468 [info] Running installed packages checker:  {
+  id: '/home/zeus/miniconda3/envs/cloudspace/bin/python',
+  sysPrefix: '/home/zeus/miniconda3/envs/cloudspace',
+  envType: 'Conda',
+  envName: 'cloudspace',
+  envPath: '/home/zeus/miniconda3/envs/cloudspace',
+  path: '/home/zeus/miniconda3/envs/cloudspace/bin/python',
+  architecture: 3,
+  sysVersion: '3.10.10 (main, Mar 21 2023, 18:45:11) [GCC 11.2.0]',
+  version: {
+    raw: '3.10.10',
+    major: 3,
+    minor: 10,
+    patch: 10,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  companyDisplayName: 'Anaconda, Inc.',
+  displayName: "Python 3.10.10 ('cloudspace')",
+  detailedDisplayName: "Python 3.10.10 ('cloudspace': conda)",
+  type: 'Conda'
+} /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/python_files/installed_check.py /teamspace/studios/this_studio/requirements.txt
+2024-08-23 08:11:36.469 [info] > /home/zeus/miniconda3/envs/cloudspace/bin/python ./.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/python_files/installed_check.py ./requirements.txt
+2024-08-23 08:14:09.961 [info] Running installed packages checker:  {
+  id: '/home/zeus/miniconda3/envs/cloudspace/bin/python',
+  sysPrefix: '/home/zeus/miniconda3/envs/cloudspace',
+  envType: 'Conda',
+  envName: 'cloudspace',
+  envPath: '/home/zeus/miniconda3/envs/cloudspace',
+  path: '/home/zeus/miniconda3/envs/cloudspace/bin/python',
+  architecture: 3,
+  sysVersion: '3.10.10 (main, Mar 21 2023, 18:45:11) [GCC 11.2.0]',
+  version: {
+    raw: '3.10.10',
+    major: 3,
+    minor: 10,
+    patch: 10,
+    build: [],
+    prerelease: [ 'final', '0' ]
+  },
+  companyDisplayName: 'Anaconda, Inc.',
+  displayName: "Python 3.10.10 ('cloudspace')",
+  detailedDisplayName: "Python 3.10.10 ('cloudspace': conda)",
+  type: 'Conda'
+} /teamspace/studios/this_studio/.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/python_files/installed_check.py /teamspace/studios/this_studio/requirements.txt
+2024-08-23 08:14:09.962 [info] > /home/zeus/miniconda3/envs/cloudspace/bin/python ./.vscode-server/extensions/ms-python.python-2024.12.3-linux-x64/python_files/installed_check.py ./requirements.txt
+2024-08-23 08:51:37.596 [info] Discover tests for workspace name: this_studio - uri: /teamspace/studios/this_studio/main.py

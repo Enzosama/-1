@@ -1,0 +1,23 @@
+2024-08-23 07:56:27.374 [info] 
+
+
+
+
+2024-08-23 07:56:27.384 [info] Extension host agent started.
+2024-08-23 07:56:27.417 [info] Started initializing default profile extensions in extensions installation folder. file:///teamspace/studios/this_studio/.vscode-server/extensions
+2024-08-23 07:56:27.426 [info] Completed initializing default profile extensions in extensions installation folder. file:///teamspace/studios/this_studio/.vscode-server/extensions
+2024-08-23 07:56:29.755 [info] [<unknown>][bc6aedc8][ManagementConnection] New connection established.
+2024-08-23 07:56:30.904 [info] [<unknown>][399b370a][ExtensionHostConnection] New connection established.
+2024-08-23 07:56:30.908 [info] [<unknown>][399b370a][ExtensionHostConnection] <3384> Launched Extension Host Process.
+2024-08-23 08:01:27.385 [info] New EH opened, aborting shutdown
+2024-08-23 08:01:53.715 [info] [<unknown>][bc6aedc8][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+2024-08-23 08:05:30.017 [error] [/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.debugpy-2024.10.0-linux-x64]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-08-23 08:05:30.023 [error] Error: Unexpected SIGPIPE
+    at process.<anonymous> (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-f1e16e1e6214d7c44d078b1f0607b2388f29d729/server/out/vs/server/node/server.main.js:192:6383)
+    at process.emit (node:events:518:28)
+2024-08-23 08:05:30.036 [info] Extensions added from another source ms-python.debugpy file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json
+2024-08-23 08:05:30.112 [error] [/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.debugpy-2024.10.0-linux-x64]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-08-23 08:05:32.301 [error] [/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.debugpy-2024.10.0-linux-x64]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-08-23 08:05:32.315 [info] Extensions added from another source ms-python.python file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json
+2024-08-23 08:05:36.691 [error] [/teamspace/studios/this_studio/.vscode-server/extensions/ms-python.debugpy-2024.10.0-linux-x64]: Extension is not compatible with Code 1.91.1. Extension requires: ^1.92.0.
+2024-08-23 08:05:36.701 [info] Extensions added from another source ms-python.vscode-pylance file:///teamspace/studios/this_studio/.vscode-server/extensions/extensions.json

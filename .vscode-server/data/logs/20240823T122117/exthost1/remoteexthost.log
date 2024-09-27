@@ -1,0 +1,28 @@
+2024-08-23 12:21:27.647 [info] Extension host with pid 3473 started
+2024-08-23 12:21:27.647 [error] Error: EEXIST: file already exists, open '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736/vscode.lock'
+2024-08-23 12:21:27.650 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736/vscode.lock': Could not acquire lock, checking if the file is stale.
+2024-08-23 12:21:27.674 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736/vscode.lock': The pid 3384 appears to be gone.
+2024-08-23 12:21:27.674 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736/vscode.lock': Deleting a stale lock.
+2024-08-23 12:21:27.692 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736/vscode.lock': Lock acquired.
+2024-08-23 12:21:28.142 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2024-08-23 12:21:28.183 [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python', root cause: ms-python.debugpy
+2024-08-23 12:21:29.184 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-08-23 12:21:30.404 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-08-23 12:21:30.404 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-08-23 12:21:30.594 [info] ExtensionService#_doActivateExtension ms-python.debugpy, startup: false, activationEvent: 'onLanguage:python'
+2024-08-23 12:21:30.594 [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+2024-08-23 12:21:31.496 [info] Eager extensions activated
+2024-08-23 12:21:31.496 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-08-23 12:21:31.497 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-08-23 12:47:35.748 [error] Error: read ECONNRESET
+	at TLSWrap.onStreamRead (node:internal/stream_base_commons:218:20)
+2024-08-23 15:37:24.354 [error] Error: Unknown system error -116: Unknown system error -116, open '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736/vscode.lock'
+	at async open (node:internal/fs/promises:636:25)
+	at async Object.readFile (node:internal/fs/promises:1246:14)
+	at async m (/teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/workbench/api/node/extensionHostProcess.js:156:60878)
+	at async /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/workbench/api/node/extensionHostProcess.js:156:59879
+2024-08-23 15:37:24.355 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736/vscode.lock': The lock was lost unexpectedly.
+2024-08-23 15:37:24.355 [error] Error: Unknown system error -116: Unknown system error -116, utime '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736/vscode.lock'
+	at async Object.utimes (node:internal/fs/promises:1131:10)
+	at async /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/server/out/vs/workbench/api/node/extensionHostProcess.js:156:59996
+2024-08-23 15:37:24.355 [info] Lock '/teamspace/studios/this_studio/.vscode-server/data/User/workspaceStorage/e44ac51663c7dbf3cef2fb7ab1d11736/vscode.lock': Could not update mtime.

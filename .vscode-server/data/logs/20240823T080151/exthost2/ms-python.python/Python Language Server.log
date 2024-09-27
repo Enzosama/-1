@@ -1,0 +1,82 @@
+2024-08-23 08:05:40.785 [info] (Client) Pylance async client (2024.8.1) started with python extension (2024.12.3)
+2024-08-23 08:05:41.234 [info] [Info  - 8:05:41 AM] (16756) Server root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-23 08:05:41.263 [info] [Info  - 8:05:41 AM] (16756) Experimental Pylance language server 2024.8.1 (pyright version 1.1.373, commit ee424479) starting
+2024-08-23 08:05:41.263 [info] [Info  - 8:05:41 AM] (16756) Starting service instance "this_studio"
+2024-08-23 08:05:41.298 [info] [Info  - 8:05:41 AM] (16756) Setting pythonPath for service "this_studio": "/home/zeus/miniconda3/envs/cloudspace/bin/python"
+2024-08-23 08:05:41.299 [info] [Info  - 8:05:41 AM] (16756) Setting environmentName for service "this_studio": "3.10.10 (cloudspace conda)"
+2024-08-23 08:05:41.299 [info] [Info  - 8:05:41 AM] (16756) No include entries specified; assuming /teamspace/studios/this_studio
+2024-08-23 08:05:41.300 [info] [Info  - 8:05:41 AM] (16756) Auto-excluding **/node_modules
+2024-08-23 08:05:41.300 [info] [Info  - 8:05:41 AM] (16756) Auto-excluding **/__pycache__
+2024-08-23 08:05:41.301 [info] [Info  - 8:05:41 AM] (16756) Auto-excluding **/.*
+2024-08-23 08:05:41.322 [info] [Info  - 8:05:41 AM] (16756) Assuming Python version 3.10.10.final.0
+2024-08-23 08:05:41.419 [info] [Info  - 8:05:41 AM] (16756) Found 1 source file
+2024-08-23 08:05:41.521 [info] [Info  - 8:05:41 AM] (16756) Background analysis(1) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-23 08:05:41.524 [info] [Info  - 8:05:41 AM] (16756) Background analysis(1) started
+2024-08-23 08:05:42.008 [info] [Info  - 8:05:42 AM] (16756) Indexer background runner(2) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-08-23 08:05:42.008 [info] [Info  - 8:05:42 AM] (16756) Indexing(2) started
+2024-08-23 08:05:42.776 [info] [Info  - 8:05:42 AM] (16756) scanned(2) 351 files over 1 exec env
+2024-08-23 08:05:47.795 [info] [Info  - 8:05:47 AM] (16756) [IDX(2)] Long operation: index execution environment file:///teamspace/studios/this_studio (4761ms)
+2024-08-23 08:05:47.819 [info] [Info  - 8:05:47 AM] (16756) [IDX(2)] Long operation: index packages file:///teamspace/studios/this_studio (4796ms)
+2024-08-23 08:05:47.820 [info] [Info  - 8:05:47 AM] (16756) indexed(2) 283 files over 1 exec env
+2024-08-23 08:05:47.919 [info] [Info  - 8:05:47 AM] (16756) Indexing finished(2).
+2024-08-23 08:08:10.441 [info] [Info  - 8:08:10 AM] (16756) Setting pythonPath for service "this_studio": "/home/zeus/miniconda3/envs/cloudspace/bin/python"
+2024-08-23 08:08:10.442 [info] [Info  - 8:08:10 AM] (16756) Setting environmentName for service "this_studio": "3.10.10 (cloudspace conda)"
+2024-08-23 08:08:10.442 [info] [Info  - 8:08:10 AM] (16756) No include entries specified; assuming /teamspace/studios/this_studio
+2024-08-23 08:08:10.442 [info] [Info  - 8:08:10 AM] (16756) Auto-excluding **/node_modules
+2024-08-23 08:08:10.442 [info] [Info  - 8:08:10 AM] (16756) Auto-excluding **/__pycache__
+2024-08-23 08:08:10.443 [info] [Info  - 8:08:10 AM] (16756) Auto-excluding **/.*
+2024-08-23 08:08:10.461 [info] [Info  - 8:08:10 AM] (16756) Assuming Python version 3.10.10.final.0
+2024-08-23 08:08:10.545 [info] [Info  - 8:08:10 AM] (16756) Found 3 source files
+2024-08-23 08:08:11.076 [info] [Info  - 8:08:11 AM] (16756) Indexer background runner(3) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-08-23 08:08:11.076 [info] [Info  - 8:08:11 AM] (16756) Indexing(3) started
+2024-08-23 08:08:11.506 [info] [Info  - 8:08:11 AM] (16756) scanned(3) 351 files over 1 exec env
+2024-08-23 08:08:11.908 [info] [Info  - 8:08:11 AM] (16756) indexed(3) 283 files over 1 exec env
+2024-08-23 08:08:12.022 [info] [Info  - 8:08:12 AM] (16756) Indexing finished(3).
+2024-08-23 08:08:52.888 [info] [Info  - 8:08:52 AM] (16756) Setting pythonPath for service "this_studio": "/home/zeus/miniconda3/envs/cloudspace/bin/python"
+2024-08-23 08:08:52.889 [info] [Info  - 8:08:52 AM] (16756) Setting environmentName for service "this_studio": "3.10.10 (cloudspace conda)"
+2024-08-23 08:08:52.889 [info] [Info  - 8:08:52 AM] (16756) No include entries specified; assuming /teamspace/studios/this_studio
+2024-08-23 08:08:52.889 [info] [Info  - 8:08:52 AM] (16756) Auto-excluding **/node_modules
+2024-08-23 08:08:52.889 [info] [Info  - 8:08:52 AM] (16756) Auto-excluding **/__pycache__
+2024-08-23 08:08:52.890 [info] [Info  - 8:08:52 AM] (16756) Auto-excluding **/.*
+2024-08-23 08:08:52.907 [info] [Info  - 8:08:52 AM] (16756) Assuming Python version 3.10.10.final.0
+2024-08-23 08:08:52.964 [info] [Info  - 8:08:52 AM] (16756) Found 3 source files
+2024-08-23 08:08:53.395 [info] [Info  - 8:08:53 AM] (16756) Indexer background runner(4) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.1/dist (index)
+2024-08-23 08:08:53.395 [info] [Info  - 8:08:53 AM] (16756) Indexing(4) started
+2024-08-23 08:08:53.851 [info] [Info  - 8:08:53 AM] (16756) scanned(4) 351 files over 1 exec env
+2024-08-23 08:08:54.173 [info] [Info  - 8:08:54 AM] (16756) indexed(4) 283 files over 1 exec env
+2024-08-23 08:08:54.289 [info] [Info  - 8:08:54 AM] (16756) Indexing finished(4).
+2024-08-23 08:14:38.507 [info] [Info  - 8:14:38 AM] (16756) Indexer background runner(5) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.1/dist (refresh)
+2024-08-23 08:14:38.509 [info] [Info  - 8:14:38 AM] (16756) Indexing(5) started
+2024-08-23 08:14:38.988 [info] [Info  - 8:14:38 AM] (16756) scanned(5) 406 files over 1 exec env
+2024-08-23 08:14:40.834 [info] [Info  - 8:14:40 AM] (16756) indexed(5) 322 files over 1 exec env
+2024-08-23 08:14:40.935 [info] [Info  - 8:14:40 AM] (16756) Indexing finished(5).
+2024-08-23 08:14:46.385 [info] [Info  - 8:14:46 AM] (16756) Starting service instance "<default>"
+2024-08-23 08:14:46.400 [info] [Info  - 8:14:46 AM] (16756) Setting pythonPath for service "<default>": "/home/zeus/miniconda3/envs/cloudspace/bin/python"
+2024-08-23 08:14:46.400 [info] [Info  - 8:14:46 AM] (16756) Setting environmentName for service "<default>": "3.10.10 (cloudspace conda)"
+2024-08-23 08:14:46.401 [info] [Info  - 8:14:46 AM] (16756) No include entries specified; assuming /<default workspace root>
+2024-08-23 08:14:46.401 [info] [Info  - 8:14:46 AM] (16756) Auto-excluding **/node_modules
+2024-08-23 08:14:46.402 [info] [Info  - 8:14:46 AM] (16756) Auto-excluding **/__pycache__
+2024-08-23 08:14:46.402 [info] [Info  - 8:14:46 AM] (16756) Auto-excluding **/.*
+2024-08-23 08:14:46.423 [info] [Info  - 8:14:46 AM] (16756) Assuming Python version 3.10.10.final.0
+2024-08-23 08:14:46.481 [info] [Error - 8:14:46 AM] (16756) File or directory "/<default workspace root>" does not exist.
+2024-08-23 08:14:46.481 [info] [Info  - 8:14:46 AM] (16756) No source files found.
+2024-08-23 08:14:46.781 [info] [Info  - 8:14:46 AM] (16756) Background analysis(6) root directory: file:///teamspace/studios/this_studio/.vscode-server/extensions/ms-python.vscode-pylance-2024.8.1/dist
+2024-08-23 08:14:46.784 [info] [Info  - 8:14:46 AM] (16756) Background analysis(6) started
+2024-08-23 08:16:18.900 [info] [Error - 8:16:18 AM] Request completionItem/resolve failed.
+2024-08-23 08:16:18.901 [info]   Message: Request completionItem/resolve failed with message: Cannot read properties of undefined (reading 'type')
+  Code: -32603 
+2024-08-23 08:37:30.127 [info] [Error - 8:37:30 AM] Request completionItem/resolve failed.
+2024-08-23 08:37:30.127 [info]   Message: Request completionItem/resolve failed with message: Cannot read properties of undefined (reading 'type')
+  Code: -32603 
+2024-08-23 08:37:33.736 [info] [Error - 8:37:33 AM] Request textDocument/signatureHelp failed.
+2024-08-23 08:37:33.736 [info]   Message: Request textDocument/signatureHelp failed with message: Cannot read properties of undefined (reading 'type')
+  Code: -32603 
+2024-08-23 08:48:09.974 [info] [Error - 8:48:09 AM] Request completionItem/resolve failed.
+2024-08-23 08:48:09.975 [info]   Message: Request completionItem/resolve failed with message: Cannot read properties of undefined (reading 'type')
+  Code: -32603 
+2024-08-23 08:53:00.389 [info] [Error - 8:53:00 AM] Request completionItem/resolve failed.
+2024-08-23 08:53:00.390 [info]   Message: Request completionItem/resolve failed with message: Cannot read properties of undefined (reading 'type')
+  Code: -32603 
+2024-08-23 08:53:03.346 [info] [Error - 8:53:03 AM] Request textDocument/signatureHelp failed.
+2024-08-23 08:53:03.346 [info]   Message: Request textDocument/signatureHelp failed with message: Cannot read properties of undefined (reading 'type')
+  Code: -32603 

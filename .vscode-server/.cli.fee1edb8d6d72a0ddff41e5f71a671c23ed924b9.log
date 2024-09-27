@@ -1,0 +1,6 @@
+Listening on 127.0.0.1:50409
+[2024-08-28 06:38:21] info Disposed of connection to running server.
+looking for token 3293b1ee-323d-4962-a4a3-398a45abc8c8, got Some("3293b1ee-323d-4962-a4a3-398a45abc8c8")
+[2024-08-28 06:38:21] info Checking /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/log.txt and /teamspace/studios/this_studio/.vscode-server/cli/servers/Stable-fee1edb8d6d72a0ddff41e5f71a671c23ed924b9/pid.txt for a running server...
+[2024-08-28 06:38:21] info Starting server...
+[2024-08-28 06:38:21] info Server started
